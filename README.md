@@ -1,5 +1,4 @@
-# Local-HTML-File-Translator
-Okay, I understand. Here's a revised version of the README file:
+
 
 # HTML Translator
 
